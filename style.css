@@ -262,7 +262,7 @@ ul{
     align-items: center;
 }
 .lo{
-    background-image: url(/ama.jpeg);
+    background-image: url(./ama.jpeg);
     background-size: cover;
     height: 50px;
     width: 100px;
