@@ -36,7 +36,7 @@
     width: 110px;
 }
 .logo{
-    background-image: url(/Screenshot\ 2023-07-21\ 215330.png);
+    background-image: url(./Screenshot\ 2023-07-21\ 215330.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -166,7 +166,7 @@
 }
 
 .main{
-    background-image: url(/1.jpeg);
+    background-image: url(./1.jpeg);
     background-size: cover;
     height: 63vh;
 }
