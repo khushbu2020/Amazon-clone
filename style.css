@@ -1,0 +1,67 @@
+body{
+    background-color: #e3e6e6;
+}
+*{
+    margin: 0;padding: 0;
+}
+#hello{
+    color: #ffffff;
+    font-size: .9rem;
+    margin: 0;
+}
+#hel{
+    color: #ffffff;
+    font-size: .9rem;
+    margin: 0;
+    padding: 0px 12px;
+    
+
+}
+.ka{
+    background-color: #cccccc;
+    color: #ff1212;
+    text-decoration: none;
+    
+}
+.k1{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.mik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.po{
+    bottom: 1rem;
+   
+    
+}
+
+.pic{
+    background-color: 007185;
+}
+
+.kik{
+color: #ffffff;
+margin: 5px;
+font-size: small;
+
+}
+ 
+    .bll{
+        overflow: hidden;
+    }
+    .bll:hover{
+        overflow-x: scroll;
+    }
+    .all{
+        display: flex;
+        /* padding: 30px; */
+        height: 300px;
+        
+      
+    }
